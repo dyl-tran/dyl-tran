@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
    </p>
 <br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran)](https://github.com/anuraghazra/github-readme-stats
