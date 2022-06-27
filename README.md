@@ -1,8 +1,6 @@
- 
-<p>
+
 <h3 align="center"> Languages and Tools</h3>
-</p>
-<br />
+
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -12,23 +10,22 @@
 <img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-   </p>
-<br />
 
-<p align="center">
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
- 
-</p>
 
-💬 About me
+### 💬 About Me
+
 I'm Dylan. I'm currently a student at Cal Poly Pomona, studying in Computer Engineering. I work part time as an IT Student Assistant.
 
 I'm currently learning to become a full-stack developer.
 
-📚 My tech stack is HTML, CSS, Bootstrap, TailwindCSS, and JavaScript 
-💻 I’m currently learning Express and NodeJS
-🎮 After a full day of coding, you can find me playing video games and playing with my cats
-📫 Get in touch!
-LinkedIn: https://www.linkedin.com/in/dylann-tran/
-👇 Check out my apps below 👇
+- 📚  📚 My tech stack is HTML, CSS, Bootstrap, TailwindCSS, and JavaScript
+- 💻  I’m currently learning Express and NodeJS
+- 🎮 After a full day of coding, you can find me playing video games and playing with my cats 
+
+### 📫 Get in touch!
+
+- LinkedIn: [https://linkedin.com/in/dylann-tran](https://www.linkedin.com/in/dylann-tran/)
+
+### 👇 Check out my apps below 👇
