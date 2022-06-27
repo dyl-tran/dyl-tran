@@ -1,12 +1,3 @@
-<!---
-Dylan-N-Tran/Dylan-N-Tran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-- 👋 Hi, I’m @Dylan-N-Tran
-- 👀 I’m interested in information technology topics (networking, system administration, DevOps, etc.) software development, and coding.
-- 🌱 I’m currently learning web development technologies for both front end (such as HTML5, CSS3, JavaScript) and back end (Node.js, Express, MongoDB).
  
 <p>
 <h3 align="center"> Languages and Tools</h3>
@@ -29,3 +20,15 @@ You can click the Preview link to take a look at your changes.
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
  
 </p>
+
+💬 About me
+I'm Dylan. I'm currently a student at Cal Poly Pomona, studying in Computer Engineering. I work part time as an IT Student Assistant.
+
+I'm currently learning to become a full-stack developer.
+
+📚 My tech stack is HTML, CSS, Bootstrap, TailwindCSS, and JavaScript 
+💻 I’m currently learning Express and NodeJS
+🎮 After a full day of coding, you can find me playing video games and playing with my cats
+📫 Get in touch!
+LinkedIn: https://www.linkedin.com/in/dylann-tran/
+👇 Check out my apps below 👇
