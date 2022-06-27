@@ -21,7 +21,7 @@ I'm currently learning to become a full-stack developer.
 - 💻  I’m currently learning Express and NodeJS
 - 🎮 After a full day of coding, you can find me playing video games and playing with my cats 
 
-### 📫 Get in touch!
+### 📫 Get in touch
 
 - LinkedIn: [https://linkedin.com/in/dylann-tran](https://www.linkedin.com/in/dylann-tran/)
 
