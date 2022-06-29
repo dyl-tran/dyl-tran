@@ -1,12 +1,12 @@
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
-
 ### 💬 About Me
 
 I'm Dylan. I'm currently a student at Cal Poly Pomona, studying in Computer Engineering. I work part time as an IT Student Assistant.
 
 I'm currently learning to become a full-stack developer.
 
-- 📚  My tech stack is HTML, CSS, Bootstrap, TailwindCSS, and JavaScript
+- 📚  My current tech stack: HTML5, CSS3, Bootstrap, TailwindCSS, and JavaScript(ES5/ES6)
+
+- 🛠️ My current tools: Git, GitHub, VS Code, Figma, npm
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -18,11 +18,17 @@ I'm currently learning to become a full-stack developer.
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
+
 - 💻  I’m currently learning Express and NodeJS
-- 🎮 After a full day of coding, you can find me playing video games and playing with my cats 
+- 🎮 After a full day of coding, you can find me playing video games and playing with my kitties
 
 ### 📫 Get in touch
+<a href="dylanntran@protonmail.com"
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+<a href="https://www.linkedin.com/in/dylan-n-tran/
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-- LinkedIn: [https://linkedin.com/in/dylann-tran](https://www.linkedin.com/in/dylann-tran/)
-
-### 👇 Check out my apps below 👇
+### Check out my stats! 👀
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
