@@ -23,12 +23,7 @@ I'm currently learning to become a full-stack developer.
 - 🎮 After a full day of coding, you can find me playing video games and playing with my kitties
 
 ### 📫 Get in touch
-<a href="dylanntran@protonmail.com"
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-<a href="https://www.linkedin.com/in/dylan-n-tran/
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+- LinkedIn: https://www.linkedin.com/in/dylan-n-tran/
 
 ### Check out my stats! 👀
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
