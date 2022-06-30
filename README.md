@@ -14,7 +14,8 @@ I'm currently learning to become a full-stack developer.
 - LinkedIn: https://www.linkedin.com/in/dylan-n-tran/
 
 ### Check out my stats! 👀
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylan-n-tran&show_icons=true&locale=en&layout=compact&theme=dark" alt="dylan-n-tran" />
+
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylan-n-tran&show_icons=true&locale=en&layout=compact&theme=dark" alt="dylan-n-tran" />
 
