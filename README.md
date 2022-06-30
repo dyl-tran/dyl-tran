@@ -1,6 +1,6 @@
 ### 💬 About Me
 
-I'm Dylan. I'm currently a student studying in Computer Engineering. I work part time as an IT Student Assistant.
+I'm Dylan. I'm a student studying in Computer Engineering. I work part time as an IT Student Assistant.
 
 I'm currently learning to become a full-stack developer.
 
