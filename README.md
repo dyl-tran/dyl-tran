@@ -1,4 +1,4 @@
-### 💬 About Me
+### About Me 💬
 
 I'm Dylan. I'm a student studying in Computer Engineering. I work part time as an IT Student Assistant.
 
