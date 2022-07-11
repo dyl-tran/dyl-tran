@@ -10,14 +10,14 @@ I'm currently learning to become a full-stack developer.
 - 💻  I’m currently learning back-end web development (Node.js, Express, MongoDB, SQL, etc.)
 - 🎮 After a full day of coding, you can find me playing video games and playing with my cats.
 
-<h3 align="left"> 📫 Connect with me:</h3>
+<h3 align="left"> Connect with me 📫</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dylan-n-tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-n-tran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dylan-n-tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dylan-n-tran" height="30" width="40" /></a>
 </p>
 
 
-### 📊 My Stats 
+### My Stats 📊 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylan-n-tran&show_icons=true&locale=en&layout=compact&theme=aura" alt="dylan-n-tran" />
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
