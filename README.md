@@ -17,7 +17,7 @@ I'm currently learning to become a full-stack developer.
 </p>
 
 
-### Check out my stats! 👀
+### 📊 My Stats 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylan-n-tran&show_icons=true&locale=en&layout=compact&theme=aura" alt="dylan-n-tran" />
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-n-tran&theme=aura)
