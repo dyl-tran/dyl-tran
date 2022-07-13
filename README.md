@@ -3,7 +3,7 @@
 I'm Dylan. I'm a student studying in Computer Engineering. I work part time as an IT Student Assistant.
 
 - 🌟 My goal is to become a full-stack developer/software engineer.
-- 📚  I’m currently learning back-end web development (Node.js, Express, MongoDB, SQL, etc.)
+- 📚  I’m currently learning back-end web development and databases (Node.js, Express, MongoDB, SQL, etc.)
 - 🎮 After a full day of coding, you can find me playing video games and playing with my cats.
 
 ### Languages and Tools 💻
