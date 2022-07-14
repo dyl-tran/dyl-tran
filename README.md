@@ -13,7 +13,7 @@ I'm Dylan. I'm a student studying in Computer Engineering. I work part time as a
 <p align="left">
 <a href="https://linkedin.com/in/dylan-n-tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-n-tran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dylan-n-tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dylan-n-tran" height="30" width="40" /></a>
-[<img alt="mail" height="30" width="40" src="images/Mail-logo-margin-transparent-bg.png" />(mailto:dylanntran@protonmail.com)]
+[<img alt="mail" height="30" width="40" src="images/Mail-logo.svg" />(mailto:dylanntran@protonmail.com)]
 </p>
 
 
