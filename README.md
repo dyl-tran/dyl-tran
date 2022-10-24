@@ -1,6 +1,6 @@
 ### About Me 💬
 
-I'm Dylan. I'm a student studying in Computer Engineering. I work part time as an IT Student Assistant.
+I'm Dylan. I'm a student studying in Computer Engineering. I'm aspiring to be a software engineer.
 
 ### Connect with me 📫
 <p align="left">
