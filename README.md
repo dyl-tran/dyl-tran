@@ -5,7 +5,7 @@ I'm Dylan. I'm a student studying in Computer Engineering. I'm aspiring to be a 
 ### Connect with me 📫
 <p align="left">
 <a href="https://linkedin.com/in/dylan-n-tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-n-tran" height="30" width="40" /></a>
-<a href="mailto:dylanntran@protonmail.com" target="blank"><img align="center" src="images/Mail-logo.svg" alt="dylan-n-tran" height="30" width="40" /></a>
+<a href="mailto:contact@dylantran.dev" target="blank"><img align="center" src="images/Mail-logo.svg" alt="dylan-n-tran" height="30" width="40" /></a>
 </p>
 
 
