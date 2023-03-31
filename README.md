@@ -1,8 +1,8 @@
 ### About Me 💬
 
-👋 Hello! I'm Dylan Tran.
-🌱 I’m currently studying computer engineering and aspire to become a software engineer. I tend to do a lot of front-end development.
-⬇️ See some of my projects below.
+👋 * Hello! I'm Dylan Tran.
+🌱 * I’m currently studying computer engineering and aspire to become a software engineer. I tend to do a lot of front-end development.
+⬇️ * See some of my projects below.
 
 
 ### My Stats 📊 
