@@ -2,7 +2,7 @@
 
 👋 Hello! I'm Dylan Tran.
 
-🌱 I’m currently studying computer engineering.
+🌱 I’m currently a computer engineering graduate and aspiring software developer.
 
 ### Stats 📊 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyl-tran&show_icons=true&locale=en&layout=compact&theme=aura" alt="dylan-n-tran" />
